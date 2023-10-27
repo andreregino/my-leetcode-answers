@@ -1,2 +1,4 @@
 # my-leetcode-answers
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+Collection of LeetCode questions: lists, arrays, trees, two pointers, hashsets, and so on. 
+
+I'm trying to do it everyday. A very fun way to not forget how to do basic algorithms.
